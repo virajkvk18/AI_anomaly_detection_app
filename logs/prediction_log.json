@@ -1,0 +1,21 @@
+[
+    {
+        "total_records": 500000,
+        "total_anomalies": 25000,
+        "total_normal": 475000
+    },
+    {
+        "total_records": 500000,
+        "total_anomalies": 25000,
+        "total_normal": 475000
+    },
+    {
+        "features": [
+            0.0,
+            86.0,
+            75.6
+        ],
+        "prediction": "\u2714 NORMAL",
+        "score": null
+    }
+]
